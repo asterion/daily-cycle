@@ -1,0 +1,10 @@
+/* Daily Cycle: the legend menu */
+
+.daily-cycle-current {
+    font-weight: bold;
+}
+
+/* Tabular figures keep the hours aligned */
+.daily-cycle-hours {
+    font-feature-settings: "tnum";
+}

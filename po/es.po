@@ -1,0 +1,38 @@
+# Spanish translations for daily-cycle@asterion package.
+# Copyright (C) 2026 THE daily-cycle@asterion'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the daily-cycle@asterion package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: daily-cycle@asterion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-03 08:16-0300\n"
+"PO-Revision-Date: 2026-10-03 08:10-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: indicator.js:30
+msgid "Early morning"
+msgstr "Madrugada"
+
+#: indicator.js:31
+msgid "Morning"
+msgstr "Mañana"
+
+#: indicator.js:32
+msgid "Noon"
+msgstr "Mediodía"
+
+#: indicator.js:33
+msgid "Afternoon"
+msgstr "Tarde"
+
+#: indicator.js:34
+msgid "Night"
+msgstr "Noche"

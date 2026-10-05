@@ -1,0 +1,10 @@
+{
+  "uuid": "daily-cycle@asterion",
+  "name": "Daily Cycle",
+  "description": "An icon in the top panel that follows the time of day: early morning, morning, noon, afternoon and night. Its menu lists every period with its hours and highlights the current one.",
+  "gettext-domain": "daily-cycle@asterion",
+  "version": 1,
+  "shell-version": [
+    "50"
+  ]
+}
